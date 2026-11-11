@@ -20,3 +20,6 @@ a.clear()     // 清空（size 变 0，capacity 不变）
 a.resize(n)   // 强行改成 n 个元素
 a.begin(), a.end()   // 迭代器，配合 sort / for 用。
 //vector也包含这些（他们通常带“.”）
+
+
+push
